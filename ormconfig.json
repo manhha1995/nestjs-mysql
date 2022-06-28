@@ -1,0 +1,8 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "username": "hanm",
+    "password": "khoaichau@1995",
+    "database": "task",
+    "entities": ["dist/**/*.entity{.ts,.js}"]
+}
